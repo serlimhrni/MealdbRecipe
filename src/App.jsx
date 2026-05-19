@@ -211,12 +211,10 @@ export default function App() {
 
         <section className="content">
           <div className="hero">
-            <div>
+            <div> 
               <span className="pill">ReactJS Integrasi API</span>
               <h1>Dashboard Resep Makanan TheMealDB</h1>
               <p>
-                Menggunakan if else untuk menentukan endpoint API, dilengkapi search, filter kategori,
-                filter area, pagination, loading, error handling, POST dummy, dan card resep yang bisa diklik.
               </p>
             </div>
           </div>

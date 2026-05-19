@@ -159,7 +159,7 @@ button {
   min-height: 250px;
   padding: 34px;
   display: flex;
-  align-items: end;
+  align-items: center;
   border-radius: 34px;
   background:
     linear-gradient(90deg, rgba(236, 72, 153, 0.92), rgba(236, 72, 153, 0.38)),
